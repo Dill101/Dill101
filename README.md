@@ -1,3 +1,1 @@
-Hi! I'm Dill (a.k.a Dylan)
- 
-I'm a Deep Learning enthusiast, Linux enthusiast, and obsessed with UIs.
+Nothing here
